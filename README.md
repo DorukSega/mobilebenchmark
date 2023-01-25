@@ -4,7 +4,7 @@ A Benchmark Application written in Java with Android SDK for a school project.
 The Benchmark target picked for this project is CPU and Threading. Program runs a costly floating point calculation through CPU, 
 based on the choice of the user this is single threaded and multi threaded.
 
-![Example Screenshot](https://i.imgur.com/s6d9xxU.png)
+<p align="center"><img src="https://i.imgur.com/s6d9xxU.png" height="750" margin-left="auto" /><p/>
 
 After the benchmark finishes the program calculates a score for the benchmark and also displays some other vital information.
 
