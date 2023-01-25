@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cpu Benchmark</string>
+    <string name="single_thread">Test Single Threaded</string>
+    <string name="multi_thread">Test Multi Threaded</string>
+</resources>
